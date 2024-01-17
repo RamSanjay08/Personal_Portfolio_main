@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "IBM Data analytics Intern",
-    cardImage: "assets/images/experience-page/3.jpeg",
-    place: "ICT Academy",
-    time: "(DEC, 2022 - FEB, 2023)",
-    desp: "<li>Worked on Health-Care Data.</li> <li>Visualizing the web app and worked on front-end.</li> <li>Tech stacks -<b> Reactjs </b>,<b> Bootstrap</b>,<b> Power BI</b></li>",
+    title: "Frontend Developer Intern",
+    cardImage: "assets/images/experience-page/3.jpg",
+    place: "Elfinity Technologies",
+    time: "Bengaluru, KA | Remote (DEC 2023 - PRESENT)",
+    desp: "<li>Worked on developing an event-hosting web application with cutting-edge technologies.</li> <li>Familiarity in creating Custom UI Components, calendars, Authentication, State management tools, UI/UX Research and more.</li> <li>Tech stacks -<b> React</b>,<b> JavaScript</b>,<b> Tailwind</b>,<b> Bootstrap</b>,<b> Cloud Zero</b></li>",
   },
 ];
 
